@@ -1,4 +1,4 @@
-# 🏢 RWA Investment Platform
+# 🏢 AssetFlow
 
 Tokenize and invest in real-world assets using the Stellar blockchain.
 
@@ -12,7 +12,7 @@ Tokenize and invest in real-world assets using the Stellar blockchain.
 
 ## 🎯 Project Overview
 
-The RWA Investment Platform allows users to invest in tokenized real estate, commodities, and infrastructure projects. Built on the Stellar blockchain, it ensures fast and secure transactions with a professional web interface.
+The AssetFlow allows users to invest in tokenized real estate, commodities, and infrastructure projects. Built on the Stellar blockchain, it ensures fast and secure transactions with a professional web interface.
 
 ---
 
